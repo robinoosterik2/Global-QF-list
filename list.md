@@ -116,8 +116,7 @@ Europe
 
 ## Oceania
 
-- [ ] Australia: Australian Qualifications Framework (AQF)
-    [en.wikipedia.org](https://en.wikipedia.org/wiki/Australian_Qualifications_Framework?utm_source=chatgpt.com)
+- [x] [Australia](./data/au_AQF.md): Australian Qualifications Framework (AQF) - Australia's national policy for regulated qualifications, covering schools, vocational education, and higher education sectors with 10 qualification levels.
 
 - [ ] New Zealand: New Zealand Qualifications Framework (NZQF)
     [en.wikipedia.org](https://en.wikipedia.org/wiki/National_qualifications_framework?utm_source=chatgpt.com)
