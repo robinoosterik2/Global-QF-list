@@ -36,7 +36,6 @@ Examples include:
 ```text
 /
 ├── README.md
-├── CONTRIBUTING.md
 ├── LICENSE
 ├── data/
 │   ├── eqf.md
@@ -56,12 +55,19 @@ We welcome contributions from anyone who has access to information about nationa
 
 1. Fork the repository
 2. Create a new branch
+country specific branch name: 
 ```bash
 git checkout -b add-[framework]-[country_code]
 ```
-3. Add the new framework to the `data/` directory
-4. Link official sources (e.g., UNESCO, CEDEFOP, SCQF, etc.) in the `sources/` directory
-5. Submit a pull request
+
+framework specific branch name: 
+```bash
+git checkout -b add-[framework]
+```
+
+1. Add the new framework to the `data/` directory
+2. Link official sources (e.g., UNESCO, CEDEFOP, SCQF, etc.) in the `sources/` directory
+3. Submit a pull request
 
 ## 📬 Contact
 
