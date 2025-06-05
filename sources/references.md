@@ -12,3 +12,4 @@ This file lists verified official sources for the national and regional qualific
 
 ## 🇬🇧 United Kingdom
 - [RQF (UK Regulated Qualifications Framework)](https://www.gov.uk/what-different-qualification-levels-mean)
+- [SCQF (Scottish Credit and Qualifications Framework)](https://scqf.org.uk/)
