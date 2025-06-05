@@ -26,8 +26,6 @@ The RQF has **9 levels** (Entry Level to Level 8), with Entry Level further divi
 
 ## 🔍 Key Features
 
-- **Flexibility**: Qualifications are built using a credit-based system, allowing for flexible learning pathways
-- **Transparency**: Clear level indicators show the relative difficulty and size of qualifications
 - **Progression**: Designed to support progression between levels and types of qualifications
 - **Recognition**: Helps employers and educators understand the level and content of qualifications
 
