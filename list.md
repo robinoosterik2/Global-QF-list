@@ -82,6 +82,8 @@ Europe
 
 - [ ] Switzerland: Swiss Qualifications Framework
 
+- [x] Russia: Russian Qualifications Framework
+
 #### United Kingdom:
 
 - [x] [England & Northern Ireland](./data/uk_RQF.md): The national framework for qualifications in England and Northern Ireland, regulated by Ofqual and CCEA Regulation.

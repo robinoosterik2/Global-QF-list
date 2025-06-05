@@ -16,3 +16,6 @@ This file lists verified official sources for the national and regional qualific
 
 ## 🇦🇺 Oceania
 - [AQF (Australian Qualifications Framework)](https://www.aqf.edu.au/)
+
+## 🇷🇺 Russia
+- [Comparing dutch diploma's to russians](https://www.nuffic.nl/en/education-systems/russia)
