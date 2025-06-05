@@ -6,13 +6,13 @@ These frameworks encompass multiple countries, promoting harmonization and mutua
 
 - [x] [European Qualifications Framework (EQF)](./data/EQF.md): Covers 39 countries, including EU member states and associated countries, to facilitate comparability of qualifications across Europe.
 
-- [ ] ASEAN Qualifications Reference Framework (AQRF): Involves 10 Southeast Asian nations, aiming to support education and labour mobility within the ASEAN region. [openspace.etf.europa.eu](https://openspace.etf.europa.eu/content/721-qualifications-frameworks)
+- [x] [ASEAN Qualifications Reference Framework (AQRF)](./data/AQRF.md): Involves 10 Southeast Asian nations, aiming to support education and labour mobility within the ASEAN region. ([Source](https://openspace.etf.europa.eu/content/721-qualifications-frameworks))
 
-- [ ] Southern African Development Community Qualifications Framework (SADCQF): Encompasses 16 countries in Southern Africa, promoting regional integration and standardization of qualifications. [openspace.etf.europa.eu](https://openspace.etf.europa.eu/content/721-qualifications-frameworks)
+- [x] [Southern African Development Community Qualifications Framework (SADCQF)](./data/SADCQF.md): Encompasses 16 countries in Southern Africa, promoting regional integration and standardization of qualifications. ([Source](https://openspace.etf.europa.eu/content/721-qualifications-frameworks))
 
 - [ ] East African Qualifications Framework for Higher Education (EAQFHE): Includes 6 East African countries, focusing on harmonizing higher education qualifications.
 
-- [ ] African Continental Qualifications Framework (ACQF): A continent-wide initiative aiming to enhance transparency and comparability of qualifications across Africa.[openspace.etf.europa.eu+1openspace.etf.europa.eu+1](https://openspace.etf.europa.eu/resources/regional-qualifications-frameworks-around-globe-2020?utm_source=chatgpt.com)
+- [x] [African Continental Qualifications Framework (ACQF)](./data/ACQF.md): A continent-wide initiative aiming to enhance transparency and comparability of qualifications across Africa. ([Source](https://openspace.etf.europa.eu/resources/regional-qualifications-frameworks-around-globe-2020))
 
 - [x] [ISCED (International Standard Classification of Education)](./data/ISCED.md): A global standard for classifying educational qualifications and programmes.
 
@@ -21,8 +21,7 @@ These frameworks encompass multiple countries, promoting harmonization and mutua
 These are country-specific systems that classify and standardize qualifications within a nation.
 Europe
 
-- [ ] Austria: National Qualifications Framework (NQF)
-    [en.wikipedia.org+3en.wikipedia.org+3en.wikipedia.org+3](https://en.wikipedia.org/wiki/Scottish_Credit_and_Qualifications_Framework?utm_source=chatgpt.com)
+- [x] [Austria: National Qualifications Framework (NQF)](./data/Austria_NQF.md) ([Source](https://www.qualifikationsregister.at/en), [Europass NQF Page](https://europass.europa.eu/en/europass-digital-tools/european-qualifications-framework/national-qualifications-frameworks))
 
 - [ ] Belgium: Flemish and French-speaking communities have their own NQFs
 
@@ -30,8 +29,7 @@ Europe
 
 - [ ] Czech Republic: Czech Qualifications Framework
 
-- [ ] Denmark: Danish Qualifications Framework
-    [en.wikipedia.org+2cedefop.europa.eu+2europass.europa.eu+2](https://www.cedefop.europa.eu/en/projects/national-qualifications-framework-nqf?utm_source=chatgpt.com)
+- [x] [Denmark: Danish Qualifications Framework](./data/Denmark_NQF.md) ([Source](https://ufm.dk/en/education/recognition-and-transparency/transparency-tools/qualifications-frameworks), [Europass NQF Page](https://europass.europa.eu/en/europass-digital-tools/european-qualifications-framework/national-qualifications-frameworks))
 
 - [ ] Estonia: Estonian Qualifications Framework
 
