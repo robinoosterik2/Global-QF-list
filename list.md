@@ -1,8 +1,10 @@
 ## 🌍 Regional Qualifications Frameworks (RQFs)
 
-These frameworks encompass multiple countries, promoting harmonization and mutual recognition of 
+These frameworks encompass multiple countries, promoting harmonization and mutual recognition of qualifications across regions.
 
-European Qualifications Framework (EQF): Covers 39 countries, including EU member states and associated countries, to facilitate comparability of qualifications across 
+[CARICOM Qualifications Framework (CQF)](./data/CARICOM.md): The Caribbean Community's framework covering 15 member states, facilitating the recognition of qualifications across the Caribbean region.
+
+[European Qualifications Framework (EQF)](./data/EQF.md): Covers 39 countries, including EU member states and associated countries, to facilitate comparability of qualifications across Europe.
 
 ASEAN Qualifications Reference Framework (AQRF): Involves 10 Southeast Asian nations, aiming to support education and labour mobility within the ASEAN region. [openspace.etf.europa.eu](https://openspace.etf.europa.eu/content/721-qualifications-frameworks)
 
