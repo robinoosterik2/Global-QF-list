@@ -69,7 +69,8 @@ git checkout -b add-[framework]
 
 1. Add the new framework to the `data/` directory
 2. Link official sources (e.g., UNESCO, CEDEFOP, SCQF, etc.) in the `sources/` directory
-3. Submit a pull request
+3. Update the `list.md` file
+4. Submit a pull request
 
 ## 📬 Contact
 
