@@ -14,6 +14,8 @@ These frameworks encompass multiple countries, promoting harmonization and mutua
 
 - [ ] African Continental Qualifications Framework (ACQF): A continent-wide initiative aiming to enhance transparency and comparability of qualifications across Africa.[openspace.etf.europa.eu+1openspace.etf.europa.eu+1](https://openspace.etf.europa.eu/resources/regional-qualifications-frameworks-around-globe-2020?utm_source=chatgpt.com)
 
+- [x] [ISCED (International Standard Classification of Education)](./data/ISCED.md): A global standard for classifying educational qualifications and programmes.
+
 ## 🌐 National Qualifications Frameworks (NQFs)
 
 These are country-specific systems that classify and standardize qualifications within a nation.
