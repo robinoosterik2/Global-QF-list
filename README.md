@@ -59,7 +59,7 @@ As right now this project is being maintained by me, it is very welcome to help,
 2. Create a new branch
 country specific branch name: 
 ```bash
-git checkout -b add-[framework]-[country_code]
+git checkout -b add-[framework]-[country]
 ```
 
 framework specific branch name: 
