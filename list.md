@@ -6,9 +6,9 @@ These frameworks encompass multiple countries, promoting harmonization and mutua
 
 - [x] [European Qualifications Framework (EQF)](./data/EQF.md): Covers 39 countries, including EU member states and associated countries, to facilitate comparability of qualifications across Europe.
 
-- [x] [ASEAN Qualifications Reference Framework (AQRF)](./data/AQRF.md): Involves 10 Southeast Asian nations, aiming to support education and labour mobility within the ASEAN region. ([Source](https://openspace.etf.europa.eu/content/721-qualifications-frameworks))
+- [ ] [ASEAN Qualifications Reference Framework (AQRF)](./data/AQRF.md): Involves 10 Southeast Asian nations, aiming to support education and labour mobility within the ASEAN region. ([Source](https://openspace.etf.europa.eu/content/721-qualifications-frameworks))
 
-- [x] [Southern African Development Community Qualifications Framework (SADCQF)](./data/SADCQF.md): Encompasses 16 countries in Southern Africa, promoting regional integration and standardization of qualifications. ([Source](https://openspace.etf.europa.eu/content/721-qualifications-frameworks))
+- [ ] [Southern African Development Community Qualifications Framework (SADCQF)](./data/SADCQF.md): Encompasses 16 countries in Southern Africa, promoting regional integration and standardization of qualifications. ([Source](https://openspace.etf.europa.eu/content/721-qualifications-frameworks))
 
 - [ ] East African Qualifications Framework for Higher Education (EAQFHE): Includes 6 East African countries, focusing on harmonizing higher education qualifications.
 
@@ -21,7 +21,7 @@ These frameworks encompass multiple countries, promoting harmonization and mutua
 These are country-specific systems that classify and standardize qualifications within a nation.
 Europe
 
-- [x] [Austria: National Qualifications Framework (NQF)](./data/Austria_NQF.md) ([Source](https://www.qualifikationsregister.at/en), [Europass NQF Page](https://europass.europa.eu/en/europass-digital-tools/european-qualifications-framework/national-qualifications-frameworks))
+- [ ] [Austria: National Qualifications Framework (NQF)](./data/Austria_NQF.md) ([Source](https://www.qualifikationsregister.at/en), [Europass NQF Page](https://europass.europa.eu/en/europass-digital-tools/european-qualifications-framework/national-qualifications-frameworks))
 
 - [ ] Belgium: Flemish and French-speaking communities have their own NQFs
 
@@ -29,7 +29,7 @@ Europe
 
 - [ ] Czech Republic: Czech Qualifications Framework
 
-- [x] [Denmark: Danish Qualifications Framework](./data/Denmark_NQF.md) ([Source](https://ufm.dk/en/education/recognition-and-transparency/transparency-tools/qualifications-frameworks), [Europass NQF Page](https://europass.europa.eu/en/europass-digital-tools/european-qualifications-framework/national-qualifications-frameworks))
+- [ ] [Denmark: Danish Qualifications Framework](./data/Denmark_NQF.md) ([Source](https://ufm.dk/en/education/recognition-and-transparency/transparency-tools/qualifications-frameworks), [Europass NQF Page](https://europass.europa.eu/en/europass-digital-tools/european-qualifications-framework/national-qualifications-frameworks))
 
 - [ ] Estonia: Estonian Qualifications Framework
 

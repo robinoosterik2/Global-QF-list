@@ -33,3 +33,4 @@ The African Continental Qualifications Framework (ACQF) is a continent-wide init
 
 - [ETF Open Space: Qualifications Frameworks](https://openspace.etf.europa.eu/content/721-qualifications-frameworks)
 - [ETF Open Space: Regional Qualifications Frameworks around the Globe 2020](https://openspace.etf.europa.eu/resources/regional-qualifications-frameworks-around-globe-2020) (Links to a more detailed PDF report)
+- [pdf](https://capsalliance.eu/wp-content/uploads/2025/05/A-Brief-Handbook-on-the-African-Continental-Qualifications-Framework_WEB.pdf)
