@@ -84,16 +84,13 @@ Europe
 
 #### United Kingdom:
 
-- [ ] England: Regulated Qualifications Framework (RQF)
+- [x] [England & Northern Ireland](./data/uk_RQF.md): The national framework for qualifications in England and Northern Ireland, regulated by Ofqual and CCEA Regulation.
 
 - [ ] Scotland: Scottish Credit and Qualifications Framework (SCQF)
         [en.wikipedia.org+1en.wikipedia.org+1](https://en.wikipedia.org/wiki/Scottish_Credit_and_Qualifications_Framework?utm_source=chatgpt.com)
 
 - [ ] Wales: Credit and Qualifications Framework for Wales (CQFW)
         [cedefop.europa.eu+4en.wikipedia.org+4en.wikipedia.org+4](https://en.wikipedia.org/wiki/National_qualifications_framework?utm_source=chatgpt.com)
-
-- [ ] Northern Ireland: Council for the Curriculum, Examinations and Assessment (CCEA)
-        [en.wikipedia.org](https://en.wikipedia.org/wiki/National_qualifications_framework?utm_source=chatgpt.com)
 
 ## Africa
 
