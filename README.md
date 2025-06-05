@@ -51,6 +51,8 @@ Examples include:
 
 We welcome contributions from anyone who has access to information about national and regional qualifications frameworks. If you have information about a framework that is not included in this repository, please submit a pull request.
 
+As right now this project is being maintained by me, it is very welcome to help, as I am not an any where near an export on this topic.
+
 ### 🛠️ Steps to Contribute
 
 1. Fork the repository
