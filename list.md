@@ -105,7 +105,7 @@ Europe
 
 ## Asia
 
-- [ ] India: National Skills Qualifications Framework (NSQF)
+- [x] India: National Skills Qualifications Framework (NSQF)
     [en.wikipedia.org](https://en.wikipedia.org/wiki/National_qualifications_framework?utm_source=chatgpt.com)
 
 - [ ] Indonesia: Indonesian National Qualifications Framework (KKNI)
